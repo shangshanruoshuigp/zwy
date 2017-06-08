@@ -1,0 +1,36 @@
+﻿body {
+  margin:0px;
+  background-color:rgba(204, 204, 204, 1);
+  background-image:none;
+  position:static;
+  left:auto;
+  width:970px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u5601_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:955px;
+  height:1056px;
+}
+#u5601 {
+  position:absolute;
+  left:15px;
+  top:7px;
+  width:955px;
+  height:1056px;
+}
+#u5602 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:955px;
+  word-wrap:break-word;
+}
