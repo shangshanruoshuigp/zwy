@@ -1939,7 +1939,7 @@
   left:0px;
   top:0px;
   width:455px;
-  height:145px;
+  height:155px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
   box-sizing:border-box;
@@ -1957,13 +1957,13 @@
   left:690px;
   top:263px;
   width:455px;
-  height:145px;
+  height:155px;
   text-align:left;
 }
 #u1233 {
   position:absolute;
   left:2px;
-  top:8px;
+  top:2px;
   width:451px;
   word-wrap:break-word;
 }
@@ -1984,7 +1984,7 @@
 #u1234 {
   position:absolute;
   left:690px;
-  top:418px;
+  top:431px;
   width:159px;
   height:16px;
 }
@@ -1999,6 +1999,7 @@
   position:absolute;
   left:119px;
   top:132px;
+  visibility:hidden;
 }
 #u1236_state0 {
   position:relative;
