@@ -1064,12 +1064,21 @@
   position:absolute;
   left:841px;
   top:349px;
+  width:443px;
+  height:243px;
+  overflow:hidden;
   visibility:hidden;
 }
 #u628_state0 {
-  position:relative;
+  position:absolute;
   left:0px;
   top:0px;
+  width:443px;
+  height:243px;
+  -ms-overflow-x:hidden;
+  overflow-x:hidden;
+  -ms-overflow-y:hidden;
+  overflow-y:hidden;
   background-image:none;
 }
 #u628_state0_content {
@@ -1147,10 +1156,16 @@
   background-image:url('../../resources/images/transparent.gif');
 }
 #u628_state1 {
-  position:relative;
+  position:absolute;
   left:0px;
   top:0px;
+  width:443px;
+  height:243px;
   visibility:hidden;
+  -ms-overflow-x:hidden;
+  overflow-x:hidden;
+  -ms-overflow-y:hidden;
+  overflow-y:hidden;
   background-image:none;
 }
 #u628_state1_content {
@@ -1228,10 +1243,16 @@
   background-image:url('../../resources/images/transparent.gif');
 }
 #u628_state2 {
-  position:relative;
+  position:absolute;
   left:0px;
   top:0px;
+  width:443px;
+  height:243px;
   visibility:hidden;
+  -ms-overflow-x:hidden;
+  overflow-x:hidden;
+  -ms-overflow-y:hidden;
+  overflow-y:hidden;
   background-image:none;
 }
 #u628_state2_content {
@@ -1617,7 +1638,7 @@
 }
 #u672 {
   position:absolute;
-  left:924px;
+  left:933px;
   top:740px;
   width:50px;
   height:47px;
@@ -1647,7 +1668,7 @@
 }
 #u674 {
   position:absolute;
-  left:917px;
+  left:926px;
   top:814px;
   width:65px;
   height:19px;
@@ -2271,6 +2292,35 @@
   left:2px;
   top:180px;
   width:1171px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u720_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:127px;
+  height:36px;
+  background:inherit;
+  background-color:rgba(248, 248, 248, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u720 {
+  position:absolute;
+  left:1253px;
+  top:550px;
+  width:127px;
+  height:36px;
+}
+#u721 {
+  position:absolute;
+  left:2px;
+  top:10px;
+  width:123px;
   visibility:hidden;
   word-wrap:break-word;
 }
