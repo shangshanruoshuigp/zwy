@@ -4,7 +4,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:2454px;
+  width:1500px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -809,28 +809,4 @@
   height:606px;
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
-}
-#u677_img {
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:926px;
-  height:66px;
-}
-#u677 {
-  position:absolute;
-  left:1529px;
-  top:156px;
-  width:925px;
-  height:65px;
-  font-size:20px;
-  color:#FF0000;
-  text-align:left;
-}
-#u678 {
-  position:absolute;
-  left:2px;
-  top:2px;
-  width:921px;
-  word-wrap:break-word;
 }
