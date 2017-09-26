@@ -5157,6 +5157,9 @@
   text-decoration:none;
   color:#000000;
 }
+#u1345_input {
+  font-family:'微软雅黑';
+}
 #u1345_input:disabled {
   color:grayText;
 }

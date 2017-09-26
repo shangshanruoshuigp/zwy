@@ -2522,6 +2522,9 @@
   text-decoration:none;
   color:#000000;
 }
+#u1646_input {
+  font-family:'微软雅黑';
+}
 #u1646_input:disabled {
   color:grayText;
 }
