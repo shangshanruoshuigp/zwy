@@ -7,9 +7,26 @@
   text-align:center;
   line-height:normal;
 }
+.box_1 {
+}
 .box_2 {
 }
+.box_3 {
+}
+.ellipse {
+}
 ._图片 {
+}
+.placeholder {
+  font-family:'微软雅黑 Regular', '微软雅黑';
+}
+.button {
+}
+.primary_button {
+  color:#FFFFFF;
+}
+.link_button {
+  color:#169BD5;
 }
 ._一级标题 {
   font-family:'Arial Normal', 'Arial';
@@ -46,6 +63,108 @@
   font-size:10px;
   text-align:left;
 }
+.label {
+  font-family:'微软雅黑 Regular', '微软雅黑';
+  font-size:14px;
+  text-align:left;
+}
+._文本段落 {
+  text-align:left;
+}
+.line {
+}
+.arrow {
+}
+.droplist {
+  color:#000000;
+  text-align:left;
+}
+._流程形状 {
+}
+._连接线 {
+  font-family:'微软雅黑 Regular', '微软雅黑';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#CCCCCC;
+  text-align:center;
+  line-height:normal;
+}
+.sticky_1 {
+  text-align:left;
+}
+.html_button {
+  text-align:center;
+}
+.sticky_2 {
+  text-align:left;
+}
+.flow_shape {
+}
+.marker {
+  color:#FFFFFF;
+}
+.checkbox {
+  text-align:left;
+}
+._表格 {
+}
+._单元格 {
+}
+.icon {
+}
+.table_cell {
+}
+.radio_button {
+  text-align:left;
+}
+._形状 {
+}
+._文本链接 {
+  color:#0000FF;
+}
+._鼠标悬停文本链接时 {
+}
+._鼠标按下文本链接时 {
+}
+.text_field {
+  color:#000000;
+  text-align:left;
+}
+.list_box {
+  color:#000000;
+  text-align:left;
+}
+.sticky_3 {
+  text-align:left;
+}
+.image {
+}
+._水平线 {
+}
+._图片1 {
+  color:#000000;
+}
+.text_area {
+  color:#000000;
+  text-align:left;
+}
+.menu_item {
+}
+.image1 {
+  color:#000000;
+}
+.placeholder1 {
+}
+.vertical_line {
+}
+.iconfont {
+  font-family:'iconfont Regular', 'iconfont';
+  font-weight:400;
+  font-style:normal;
+  font-size:18px;
+  color:#666666;
+}
 .paragraph {
   text-align:left;
 }
@@ -55,41 +174,19 @@
   font-size:32px;
   text-align:left;
 }
-.label {
+.heading_2 {
+  font-family:'Arial Negreta', 'Arial';
+  font-weight:700;
+  font-size:24px;
+  text-align:left;
+}
+.label1 {
   font-size:14px;
   text-align:left;
 }
+.horizontal_line {
+}
 .shape {
 }
-._文本段落 {
-  text-align:left;
-}
-._流程形状 {
-}
-.box_1 {
-}
-.line {
-}
-.primary_button {
-  color:#FFFFFF;
-}
-.flow_shape {
-}
-.sticky_2 {
-  text-align:left;
-}
-.marker {
-  color:#FFFFFF;
-}
-._连接线 {
-}
-.image {
-  color:#000000;
-}
-.iconfont {
-  font-family:'iconfont Regular', 'iconfont';
-  font-weight:400;
-  font-style:normal;
-  font-size:18px;
-  color:#666666;
+.shape1 {
 }
